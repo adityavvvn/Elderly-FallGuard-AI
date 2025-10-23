@@ -4,7 +4,7 @@
 
 ## 🏥 Project Overview
 
-**FallGuard AI** is an advanced predictive system designed to detect and prevent falls in elderly care using cutting-edge time-series artificial intelligence. The system combines computer vision, skeletal pose estimation, and deep learning to provide real-time fall detection and pre-fall prediction capabilities.
+**FallGuard AI** is an advanced predictive system designed to detect and prevent falls in elderly care using cutting-edge time-series artificial intelligence. The system combines computer vision, skeletal pose estimation, and deep learning to provide real-time fall detection and pre-fall prediction capabilities..
 
 ### 🎯 Key Features
 
