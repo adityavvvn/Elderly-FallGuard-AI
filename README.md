@@ -440,42 +440,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [SHAP Documentation](https://shap.readthedocs.io/) - Explainable AI framework
 - [TensorFlow](https://www.tensorflow.org/) - Deep learning framework
 
-## 🖼️ Image Gallery
-
-### Complete Visualization Collection
-All images are stored in the `Results/` folder and showcase different aspects of the FallGuard AI system:
-
-| Image | Description | File |
-|-------|-------------|------|
-| Project Logo | FallGuard AI branding and logo | `Results/1.png` |
-| System Flow Diagram | Complete system architecture flow | `Results/26.png` |
-| SHAP Analysis | Explainable AI heatmaps | `Results/2.png` |
-| Model Performance | Training progress visualization | `Results/3.png` |
-| Dashboard Interface | Web application screenshots | `Results/4.png` |
-| Training Curves | Loss and accuracy over time | `Results/5.png` |
-| Confusion Matrix | Classification performance | `Results/6.png` |
-| Prediction Timeline | Real-time prediction visualization | `Results/7.png` |
-| SHAP Heatmap | Feature importance analysis | `Results/8.png` |
-| Advanced Metrics | Detailed performance analysis | `Results/9.png` |
-| Loss Analysis | Training loss visualization | `Results/10.png` |
-| Classification Results | Model evaluation metrics | `Results/11.png` |
-| Normalized Matrix | Standardized confusion matrix | `Results/12.png` |
-| Timeline Analysis | Temporal prediction patterns | `Results/13.png` |
-| Probability Distribution | Statistical analysis | `Results/14.png` |
-| SHAP Explanations | Model interpretability | `Results/15.png` |
-| Channel Importance | Sensor channel analysis | `Results/16.png` |
-| Temporal Analysis | Time-series insights | `Results/17.png` |
-| Frame Extraction | Video processing pipeline | `Results/18.png` |
-| Pose Estimation | Skeletal landmark detection | `Results/19.png` |
-| Feature Engineering | Data preprocessing steps | `Results/20.png` |
-| System Overview | Architecture diagram | `Results/21.jpg` |
-| Data Flow | Processing pipeline | `Results/22.jpg` |
-| Model Architecture | Neural network structure | `Results/23.png` |
-| Accuracy Metrics | Performance evaluation | `Results/24.png` |
-| ROC Curves | Receiver operating characteristics | `Results/25.png` |
-
 ---
 
-**FallGuard AI** - Protecting lives through intelligent fall prediction and prevention.
+**ELDERLY CARE- A PREDICTIVE SYSTEM FOR FALLS FOR FALLS USING TIME-SERIES AI** - Protecting lives through intelligent fall prediction and prevention.
 
-*Last updated: January 2025*
+*Last updated: October 2025*
